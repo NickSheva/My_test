@@ -15,5 +15,11 @@ price = np.array([[9.9, 9.8, 9.8, 9.4, 9.5, 9.7],
          
 print(price[:,::2])
 
+# цель заменить каждое второе строковое значение на непосредственно предшествующее ему 
+visitors = ['Firefox', 'corrupted', 'Chrome', 'corrupted', 'Safari', 'corrupted', 'Safari', 'corrupted','Chrome', 'corrupted', 'Firefox', 'corrupted']
+visitors[1::2] = visitors[::2]
+print(visitors)
+            
+
 
 
