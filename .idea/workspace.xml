@@ -1,8 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64b802ab-7b55-45d5-bb6d-67102241cbcd" name="Changes" comment="Add files via upload">
-      <changelist_data name="NickSheva" email="nikshevtsov@mail.ru" />
+    <list default="true" id="64b802ab-7b55-45d5-bb6d-67102241cbcd" name="Changes" comment="Add files via">
+      <change afterPath="$PROJECT_DIR$/age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all_eq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anomal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_bail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients.sqbpro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/closing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cosmonaut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d6_d6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataframe_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date_of_birthday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/df.table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dice_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dslfj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/earthquake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eq_explore_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eqjj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_not_found_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filename_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_eq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_from_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global_earthquakes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jhg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkjk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meddian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_table1.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_table_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_eq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/np_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/np_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number_of_soul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numtowords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one d6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordinal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plotly_pd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/re_comp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/re_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/re_try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_and_arabic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_arabic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_from_to.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_money.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_color_scales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitka_death_valey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small_story.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake_cam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soul_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/square_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/story.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_plotly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table.sqbpro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testtt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkntr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to_roman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/write_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/you.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,19 +127,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="NickSheva &lt;nikshevtsov@mail.ru&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LQHGtIxktwZl4siEvFewEGM9TT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/nikolayshevtsov/PycharmProjects/My_test"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,9 +166,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675796293451</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add files via">
+      <created>1677580006983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677580006983</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Add files via" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add files via" />
   </component>
 </project>
